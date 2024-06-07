@@ -1,7 +1,3 @@
-# An AI-driven interactive role-playing game
-
-- Working demo: https://chad-rpg.vercel.app/
-
 ## Thank you Svelte Society!
 
 - I am so proud, thank you so much Svelte Society!
@@ -70,15 +66,3 @@
 - Backgrounds are changing automatically according to characters places to give more of the ambiance.
 - A tavern/medieval vibish song can be played with a click, it uses html5 audio for now so it does not seemlessly looping but it will be seemlessly looping itself with the power of the web audio api when i implement it. The song is "Tavern Loop One" from Alexander Nakarada.
 
-## What's Next?
-
-<img src="https://wjfywtvnvjbposklgxzj.supabase.co/storage/v1/object/public/readme/cyberpunk.jpg" alt="UI of the Game" width="600">
-
-- An example storytelling scene from upcoming Cyberpunk world.
-- Note that Cyberpunk world is not currently playable, yet it'll be on the way for sure.
-
-## Final Thoughts
-
-- I want to clean the svelte source code and ts "any" types, but i'm fairly new to svelte, so that's the job for another day, project code will be cleaner and cleaner time to time.
-
-- There is no save game functionality for now, the current version is some kind of a tastement-demo.
